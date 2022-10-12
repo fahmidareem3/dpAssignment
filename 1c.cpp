@@ -1,3 +1,5 @@
+//rod cutting bottom up using tabular method
+
 #include <bits/stdc++.h>
 #include <chrono>
 using namespace std;

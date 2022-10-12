@@ -1,3 +1,6 @@
+//rod cutting problem using only recursion
+
+
 #include <bits/stdc++.h>
 #include <chrono>
 using namespace std;
